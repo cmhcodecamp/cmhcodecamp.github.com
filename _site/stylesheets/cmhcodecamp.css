@@ -3,7 +3,7 @@
 body {
     margin:0;
     padding:0;
-    background:#92c3d8 url(/images/bg-body.jpg) repeat-x 0 36px;
+    background:#92c3d8 url(../images/bg-body.jpg) repeat-x 0 36px;
     font:13pt "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
     line-height:1.4em;
     color:#444; /* #3a4652; */
@@ -26,7 +26,7 @@ ol li,ul li{
 }
 
 #designy-bg{
-    background:transparent url(/images/designy-bg.4.png) bottom right no-repeat;
+    background:transparent url(../images/designy-bg.4.png) bottom right no-repeat;
     position:fixed;
     bottom:0;
     right:0;
@@ -177,7 +177,7 @@ a.nav-link, a.nav-link:visited{
 	-moz-box-shadow: 4px 4px 6px #3a4652;
     -webkit-box-shadow: 4px 4px 6px #3a4652;
     box-shadow: 4px 4px 6px #3a4652;
-    background:#fff url(/images/item_back.gif) repeat-x 0 0;
+    background:#fff url(../images/item_back.gif) repeat-x 0 0;
 }
 
 #content{
@@ -342,7 +342,7 @@ div.a-talk{
 }
 
 div.old-a-talk{
-    background:#fff url(/images/item_back.gif) repeat-x 0 0;
+    background:#fff url(../images/item_back.gif) repeat-x 0 0;
     text-align:left;
     padding:0 30px 10px 30px;
     border:1px solid #ccc;/* #92c3d8; */
@@ -371,7 +371,7 @@ div.a-talk h2{
 }
 
 div.swag, div.bio{
-    background:#fff url(/images/item_back.gif) repeat-x 0 0;
+    background:#fff url(../images/item_back.gif) repeat-x 0 0;
     text-align:left;
     padding:0 30px 10px 30px;
     border:1px solid #ccc;/* #92c3d8; */
@@ -524,7 +524,7 @@ div.a-sponsor{
     color:#555;
     min-height:150px;
     overflow:hidden;
-    background:#fff url(/images/item_back.gif) repeat-x 0 0;
+    background:#fff url(../images/item_back.gif) repeat-x 0 0;
     -moz-border-radius: 30px;
     -khtml-border-radius: 30px;
     -webkit-border-radius: 30px;
@@ -542,7 +542,7 @@ div.a-sponsor-name{
     text-align:center;
     margin:0;
     padding:4px 0;
-    /*background:#fff url(/images/white-grad.png) repeat-x 0 0;*/
+    /*background:#fff url(../images/white-grad.png) repeat-x 0 0;*/
     height:30px;
 }
 
@@ -669,7 +669,7 @@ img#current-img{
     padding:3px;
     border:1px solid #ddd;
     color:#555;
-    background:#fff url(/images/item_back.gif) repeat-x 0 0;
+    background:#fff url(../images/item_back.gif) repeat-x 0 0;
     -moz-border-radius: 4px;
     -khtml-border-radius: 4px;
     -webkit-border-radius: 4px;
@@ -682,7 +682,7 @@ img#current-img{
 .showing-img{
 
     border:1px solid #ccc;
-    background:#f0f0f0; /*  url(/images/item_back.gif) repeat-x 0 0 */
+    background:#f0f0f0; /*  url(../images/item_back.gif) repeat-x 0 0 */
     -moz-border-radius: 4px;
     -khtml-border-radius: 4px;
     -webkit-border-radius: 4px;
