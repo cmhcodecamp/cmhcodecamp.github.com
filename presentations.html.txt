@@ -1,0 +1,321 @@
+---
+layout: conference
+title: Columbus Code Camp
+---
+
+<div id="content" class="home">
+	<div id="content-left-full">
+		<div class="fancy page-title">Presentations</div>
+		<p>
+			The Code Camp scheduled presentations are listed below.
+			If you are interested in presenting but missed the opportunity to get on the official
+			list of presentations there may be an "unconference" where anyone can give an ad-hoc presentation.
+			Contact us at <a href="mailto:cmhcodecamp@gmail.com">cmhcodecamp@gmail.com</a> for more information.
+		</p>
+		
+		<p>Download the <a href="2012ProgramFinal.pdf">Columbus Code Camp Program Guide</a>.</p>
+		
+		<!--<iframe src="https://docs.google.com/spreadsheet/viewform?formkey=dEtoWDgyekh2dkx6eTZ0QnZFQUhTMEE6MQ" style="overflow:hidden;height:2000px;width:100%" frameborder="0" scrolling="no"></iframe>-->
+		
+		<div id="presentation-table-wrapper">
+			<table id="presentation-table">
+					<colgroup>
+					      <col class="vzebra-odd">
+					      <col class="vzebra-even">
+					      <col class="vzebra-odd">
+					      <col class="vzebra-even">
+					   </colgroup>
+					<thead>
+						<tr>
+							<th scope="col" class="table-header col time-col fancy">Time</th>
+							<th scope="col" class="table-header col talk-col fancy">Auditorium</th>
+							<th scope="col" class="table-header col talk-col fancy">Classroom A</th>
+							<th scope="col" class="table-header col talk-col fancy">Foster Room</th>
+							<th scope="col" class="table-header col talk-col fancy">Beta Box</th>
+							<th scope="col" class="table-header col talk-col fancy">Board Room</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class="odd">
+						  <td class="time-col">8:00-9:00am</td>
+						  <td colspan="5" style="width:90%">Registration</td>
+					  	</tr>
+						<tr class="odd">
+							<td class="time-col">9:00-9:15am</td>
+							<td colspan="5" style="width:90%">
+								Opening remarks</td>
+						</tr>
+						<tr class="even">
+							<td class="time-col">9:15-10:30am</td>
+							<td colspan="5" style="width:90%">
+								<strong>Keynote: <br>Evidence-Based Software Development</strong>
+							</td>
+						</tr>
+						<tr class="odd">
+							<td class="time-col">10:30</td>
+							<td colspan="1" style="width:30%" valign="top"><div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  <strong>Websites with Noir</strong></td>
+							<td colspan="1" style="width:30%" valign="top"><strong>Hybrid Approach to Moving to the Cloud</strong>
+                              <div style="margin:4px;text-align:left!important;font-size:11px">
+                                
+</div></td>
+							<td style="width:30%" valign="top"><strong>Scaling PHP</strong>
+                            <div style="margin:4px;text-align:left!important;font-size:11px"></div></td>
+							<td style="width:30%" valign="top"><strong>Raspberry Pi</strong></td>
+							<td colspan="1" style="width:30%" valign="top"><strong>Tools are for Smart People</strong></td>
+						</tr>
+						<tr class="even">
+							<td class="time-col">11:00-12:00</td>
+							<td colspan="1" valign="top" style="width:30%">
+								<strong>Websites with Noir
+(Continued)								</strong>							  <div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+							<td colspan="1" valign="top" style="width:30%">
+								<strong>Using BDD to Build .NET Web Applications</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+							<td valign="top"><strong>Optimizing Regular Expressions</strong>
+                              <div style="margin:4px;text-align:left!important;font-size:11px"></div></td>
+							<td valign="top"><strong>Programming on Bare Metal: Controlling Circuits with Code</strong>
+                              <div style="margin:4px;text-align:left!important;font-size:11px"></div></td>
+							<td colspan="1" valign="top">&nbsp;
+								
+						  </td>
+						</tr>
+						<tr class="odd">
+							<td class="time-col">12:00-1:00</td>
+							<td colspan="1" style="width:30%" valign="top">
+								<strong>Introduction to Scala</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+							<td colspan="1" style="width:30%" valign="top">
+								<strong>Fun Obeservational Science with Python and a Webcam</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+							<td style="width:30%" valign="top"><strong>Mobile App Development with Titanium</strong>
+                              <div style="margin:4px;text-align:left!important;font-size:11px"></div></td>
+							<td style="width:30%" valign="top"><strong>After the Code: Ops4Dev</strong></td>
+							<td colspan="1" style="width:30%" valign="top"><strong>OAuth for Authentication and Data Access</strong>
+								
+					      </td>
+						</tr>
+						<tr class="even">
+							<td class="time-col">1:00-2:00pm</td>
+							<td colspan="5" style="width:90%">
+								<strong>Woo Hoo! Lunch!</strong>
+							</td>
+						</tr>
+						<tr class="odd">
+							<td class="time-col"><p>2:00-3:00</p></td>
+							<td colspan="1" valign="top" style="width:30%"><strong>A Rational<br />
+						    Approach to Programming Style							  </strong>							  <div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+							<td colspan="1" valign="top" style="width:30%">
+								<strong>Creating Casual Games on Windows 8 and Windows Phone</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+						  <td colspan="1" style="width:30%" valign="top"><strong>Intro to Numerical Computing</strong>
+						    <div style="margin:4px;text-align:left!important;font-size:11px"></div>
+					      <div style="margin:4px;text-align:left!important;font-size:11px"></div></td>
+						  <td rowspan=4 style="width:30%" valign="top"><strong>Clojure Koans</strong>
+                            <div style="margin:4px;text-align:left!important;font-size:11px"></div>
+                          </td>
+						  <td colspan="1" style="width:30%" valign="top">
+								<strong>High Level Language Interoperability</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+                          
+						</tr>
+						<tr class="even">
+							<td class="time-col">3:00-4:00</td>
+							<td colspan="1" style="width:30%" valign="top">
+								<strong>A Whole Team Approach to Testing</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+							<td colspan="1" style="width:30%" valign="top">
+								<strong>Failure to Launch: Code, Upload, and Explode</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+                          <td colspan="1" style="width:30%" valign="top"><strong>Porting an Existing Embedded System to Linux</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+                          <td colspan="1" style="width:30%" valign="top">
+								<strong>So You Think You Know JavaScript</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+						  </td>
+                          
+						</tr>
+						<tr class="odd">
+							<td class="time-col">4:00-5:00</td>
+							<td colspan="1" style="width:30%" valign="top">
+								<strong>The Class that Knew Too Much: Refactoring Spaghetti Code</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+							</td>
+							<td colspan="1" style="width:30%" valign="top">
+								<strong>Understanding and Preventing SQL Injection</strong>
+								<div style="margin:4px;text-align:left!important;font-size:11px"></div>
+							</td>
+							<td colspan="1" style="width:30%" valign="top"><strong>NetBeans for PHP</strong>
+                              <div style="margin:4px;text-align:left!important;font-size:11px"></div></td>
+                              <td colspan="1" style="width:30%" valign="top"><strong>C++ in 32K</strong>
+                                <div style="margin:4px;text-align:left!important;font-size:11px"></div></td>
+						</tr>
+						<tr class="even">
+							<td class="time-col">5:00</td>
+							<td colspan="5" style="width:90%">
+								Door prize drawing, wrap-up, and goodbyes
+							</td>
+						</tr>
+					</tbody>
+			</table>
+		</div><!--presentation-table-wrapper-->
+		
+		<div style="clear:both"></div>
+		
+		<br/>
+		
+		<div class="fancy page-title">Descriptions</div>
+		<p>
+			The Code Camp scheduled presentation descriptions are listed below:
+		</p>
+		<h5 class="tight-para">Keynote: Evidence-Based Software Development</h5>
+        <p> Most software developers consider themselves to be rational and objective, even more so than the general population. Nonetheless, too many developers maintain beliefs about programming tools, styles and practices for which they have no evidence. They seem to regard these beliefs as articles of faith rather than as testable hypotheses. Thus, they're not interested in conducting experiments and inclined to reject contrary evidence. This session looks at some of these questionable beliefs and contrary evidence in the hope of fostering more evidence-based approaches to software development. If you don't like your sacred beliefs challenged, this session is not for you.</p>
+      <p>&nbsp;</p>
+        <h5 class="tight-para">A Rational Approach to Programming Style</h5>
+        <p>Good programming style is an essential part of good programming.  Good style leads to programs that are more likely to be correct, and easier to fix when they aren't. Although project-wide style guidelines can improve team productivity, programmers often disagree about what those guidelines should be.  This session presents an approach toward achieving consensus on programming style. The key is to base style guidelines on common principles rather than on arbitrary rules. This talk examines a number of these principles and how they lead to specific programming guidelines. Although this session draws most of its examples from C and C++, the lessons are generally applicable in many languages.      </p>
+      <p>&nbsp;</p>
+      
+      <h5 class="tight-para">C++ in 32K</h5>
+        <p>It's a common misconception that C++ is too complex for small embedded systems, or produces bloated code, when in fact, code written in C++ can have nearly as small a memory footprint as code written in C, and enjoy the stronger type checking and other advantages C++ provides.  The speaker dispels some false charges leveled against the language, and suggests methods and tactics useful in leveraging C++ in small spaces.</p>
+      <p>&nbsp;</p>
+		
+		
+		
+		<h5 class="tight-para">Websites with Noir</h5> 
+	    <p>Think Clojure is only for the back-end functional geeks? Think again. Noir is a web application framework written in Clojure.</p>
+      <p>In this talk we will first look into the main components that make up Noir (Ring, Compojure and Hiccup) and then see how we can create a simple site using Noir.</p>
+	    <p>Finally if time permits we will push the code out to Heroku's Cedar stack.	  </p>
+      <p>&nbsp;</p>
+<h5 class="tight-para"><strong>Introduction to Scala</strong></h5> 
+	    <p>Scala provides both object-oriented and functional programming paradigms or anything in-between. It runs on the Java virtual machine so you can mix and match libraries with other languages.</p>
+	    <p>This talk will introduce you to the language, cover the language ecosystem, and demonstrate some of the language capabilities.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>A Whole Team Approach to Testing</strong></h5> 
+	    <p>In the old world, software developers would write some code and throw it over the wall to a team of testers who supposedly owned the job of testing.</p>
+	    <p>I'd rather live in a world where developers own the testing process along with the QA team, where developers and QA testers work together, and where automated testing helps drive the team towards more productivity and higher quality. We are making this happen on our team.</p>
+	    <p>Come get some practical, real-world tips on how you, as a developer, can redefine what QA means to your team.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>The Class that Knew Too Much: Refactoring Spaghetti Code</strong></h5> 
+	    <p>The Single Responsibility Principle states that a class should have one (and only one) reason to change. Classes that don't adhere to this principle can result in tightly coupled spaghetti code that leads to more bugs and higher maintenance.</p>
+	    <p>We'll look at how to identify these classes, and how to clean them up using refactoring tools, design patterns, and even aspect-oriented programming.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Hybrid Approach to Moving to the Cloud</strong></h5> 
+	    <p>Moving to the cloud does not have to be an all or none proposition. Individual cloud services can be used a la carte to add value to your applications. One common scenario is security. Storing user credentials within an application adds both complexity and risk.</p>
+	    <p>A viable alternative is managing this key component in the cloud. We will take a look at doing just this using Microsoft Azure&rsquo;s Access Control Service. In addition to practical coding examples, we will examine the behind the scenes implementation and discuss the benefits and drawbacks of using such an approach.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Using BDD to Build .NET Web Applications</strong></h5> 
+	    <p>In this talk I will show you how to use Behavior Driven Development (BDD) to create a web application in .NET. Using the BDD tool SpecFlow and the web automation tool Watin (pronounced What-in) I will show you how these can be leveraged to build web applications in a test first manner.</p>
+      <p class="tight-para">&nbsp;</p>
+		
+    <h5 class="tight-para"><strong>Fun Observational Science with Python and a Webcam</strong></h5> 
+	    <p>Python is a great language for exploration and discovery. It is enabler because it makes it easy to turn an idea into reality.</p>
+	    <p>This talk is a &quot;how I did it&quot; talk about how I took an idea, a web cam, and Python and created art, explored science, and illustrated concepts that our ancestors knew by watching the sky but we have lost.</p>
+	    <p>This talk will be a step-by-step walk-through with working code of using Django, PIL, a database, and the standard libraries to implement my ideas and hopefully will inspire others to do the same.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Creating Casual Games on Windows 8 and Windows Phone</strong></h5> 
+	    <p>The landscape for writing games has changed with Windows 8 RT. Doug will talk about some of the options that are available for writing games. He has written 10 casual games for the Windows Phone and Windows 8 RT.</p>
+	    <p>This talk also cover issues involved in migrating your Windows Phone games to the Windows 8 RT platform using MonoGame and WriteableBitmapEx</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Failure to Launch: Code, Upload, and Explode</strong></h5> 
+	    <p>Before you load your valuable ASP.NET application into a rocket and aim for the cloud, let's do a sanity check. How do you handle bandwidth shortages that never let your app reach orbit? What happens if you need more speed to haul all these users up? If your uptime flames out, how can you easily plan for splashdown?</p>
+	    <p>Moving an ASP.NET application to the cloud may not be as difficult as putting someone on the moon, but there are a lot of places where something can go wrong. In this session you'll learn how to handle the limitations of a purely virtual environment, measure performance and identify bottlenecks, and deal with the changing availability of resources.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Understanding and Preventing SQL Injection</strong></h5> 
+	    <p>Over the past several years, hacktivists, criminals, and people just &quot;out for lulz&quot; have managed to find sensitive data owned by companies like Sony, Yahoo, and Last.fm, among many others. In all of these cases, the attackers exploited websites using SQL injection attacks.</p>
+	    <p>SQL injection is at the top of the Open Web Application Security Project (OWASP) top 10 list and is an important part of one of the SANS 20 critical security controls. This talk will go into what SQL injection is, how attackers can use it, and how to secure your sites so that your CIO and CISO never show up on the evening news.</p>
+	    <p>This talk will focus on using the Microsoft stack (IIS, ASP.Net, and SQL Server), but the lessons will apply to all web systems everywhere.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Optimizing Regular Expressions</strong></h5> 
+	    <p>Optimizing for big data, extensive benchmarking, unicode support, and cross language comparisons are time consuming and complex tasks on top of building a working regular expression.</p>
+	    <p>This session will disseminate information on quickly and properly handling these tasks in real world situations. Each example will have extensive benchmark data and code so you can be confident in selecting a solution to meet your performance needs.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Mobile App Development with Titanium</strong></h5> 
+	    <p>Mobile applications have been hot. Companies want to take advantage of mobile platforms to accomplish critical business missions. Many individuals entertain the thought to create something cool and put it into the app store and millions of people would download or even pay for it. The problem is each mobile platform is different in operating system and programming language so requires different skill sets.</p>
+	    <p>Titanium is a platform that enable developers develop applications using JavaScript and compile the code into native Android and IOS applications.</p>
+	    <p>This presentation will talk what is Titanium and how it works to solve the problem. Accompany the talk will be real time demonstration in developing an application and run it on iPhone/iPad, Android.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Intro to Numerical Computing</strong></h5> 
+	    <p>This talk will explain the programming challenges specific to numerical and scientific computing, where speed is often of the utmost importance.</p>
+	    <p>Writing code for computational speed often requires a mindset that differs from what is necessary for conventional, general software development. General knowledge of CPU architecture, use of appropriate programming languages, design paradigms, and the details of numerical algorithms will be discussed.</p>
+	    <p>The audience should leave with a better understanding of the solutions necessary to author fast, maintainable numerical code.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Porting an Existing Embedded System to Linux</strong></h5> 
+	    <p>Starting with an embedded system running on a 32-bit microcontroller and no operating system, the speaker relates the experience transitioning to a single-board-computer-based system running Linux.</p>
+	    <p>Included are thoughts on kernel development, debugging, toolchains, pitfalls, and advantages.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>NetBeans for PHP</strong></h5> 
+	    <p>Demonstration of NetBeans as a PHP development IDE: Installation and Configuration of NetBeans for PHP Editing / Running / Debugging / Unit Testing a program Database (MySQL) support.</p>
+      <p class="tight-para">&nbsp;</p>
+		
+    <h5 class="tight-para"><strong>Raspberry Pi</strong></h5> 
+	    <p>This is an introductory look at the Raspberry Pi, a $35 single-board computer that boots Linux from an SD card and includes USB, Ethernet, audio, composite video out, HDMI video out, and several general-purpose I/O lines (GPIO).</p>
+	    <p>With a 700 MHz ARM processor and 256MB of onboard RAM, it's powerful enough to use as both a development environment and a target platform.</p>
+	    <p>We'll go over some of available ready-to-use Linux distributions and the hardware capabilities of the Raspberry Pi with an eye towards embedded computing projects.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>Programming on Bare Metal: Controlling Circuits with Code</strong></h5> 
+	    <p>The Arduino is the present day equivalent to the Altair 8800 and it deserves your attention.</p>
+	    <p>In this session you will learn how to program this remarkable little device, learn a little electronics, and watch me control something in the real world with code.</p>
+	    <p>But don't be surprised if, after attending this session, you have an urge to go buy one yourself and start hacking.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>OAuth for Authentication and Data Access</strong></h5> 
+	    <p>Utilize OAuth to Authenticate users with Facebook, Twitter, LinkedIn, Google+, and other Social Services.</p>
+	    <p>We'll discuss the world pre OAuth and the needs that drive OAuth adoption. OAuth 1.0 and 2.0 access methodologies will be presented and compared, along with Client vs. Server side implementations.</p>
+	    <p>A sample Rails application accessing Facebook, Twitter, LinkedIn, Google+, Yahoo, and Windows Live will be demonstrated.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>High Level Language Interoperability</strong></h5> 
+	    <p>Working well with others is sometimes difficult, but most problems are not insurmountable.</p>
+	    <p>We will take a look at various strategies of talking between systems and languages such as Java, C, and Python as well as several others.</p>
+	    <p>Serving as an introduction to some of the concepts and common pitfalls, this general talk should be applicable to artists and hobbyists as well as specific platform, web, and enterprise developers.</p>
+	    <p class="tight-para">&nbsp;</p>
+		
+	  <h5 class="tight-para"><strong>So You Think You Know JavaScript</strong></h5> 
+	    <p>Many folks think they know JavaScript. They know the syntax and can manipulate the DOM. Maybe they have even used jQuery. But do they really know it?</p>
+	    <p>I thought I did until I started digging and discovered that JavaScript is more than just a toy language for web pages. It's a full-fledged functional programming language chock full of richness.</p>
+      <p>In this session, targeted at false beginners, you will be introduced to some of this richness in an exciting game show format -- complete with prizes.</p>
+      <p>You will learn about functions, objects, closures, and revealing modules. And you'll leave a more informed JavaScript programmer (unless, of course, you already knew JavaScript in which case you'll just leave with a prize).</p>
+      <p>&nbsp;</p>
+      <h5 class="tight-para">After the Code is Done: Ops4Devs</h5>
+      <p>You've written the code; you have a great product. Now it's time to release it to the world. However, too many developer's look at the world like this:<br />
+        <br />
+        1. Write Code<br />
+        2. ?<br />
+        3. Profit<br />
+  <br />
+        Ops4Dev helps developers fill in step two, and along the way improve stability, repeatability, predictability, and sleep through the use of techniques and best practices for operations.</p>
+      <p>&nbsp;</p>
+      <h5 class="tight-para">Clojure Koans</h5>
+      <p> The Koans walk you along the path to enlightenment in order to learn Clojure. The goal is to learn the Clojure language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.</p>
+      <p class="tight-para">&nbsp;</p>
+      <h5 class="tight-para">Scaling PHP</h5>
+      <p> Overview on how ApproveIO (A payment gateway startup in Columbus) uses PHP to build a highly scalable infrastructure for a payment gateway.</p>
+      <p>&nbsp;</p>
+      <h5 class="tight-para">Tools are for Smart People</h5>
+      <p>Software projects are filled with repetitive processes as well as new and familiar problems. &nbsp;Smart people use tools to eliminate monotony, leverage existing solutions, and overcome new challenges. There is an increasing array of tools available to today's web developers. We'll delve into the growing importance of tools in web development and how they help developers work smart, not hard.       </p>
+</div>
+	<!--content-left-full-->
+</div><!--content-->
