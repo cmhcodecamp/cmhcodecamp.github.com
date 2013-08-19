@@ -1,15 +1,6 @@
 Columbus Code Camp
-Rant Section
-	It appears that the original developers were chimpanzees.
-	They use some mystery template library but were not interested in
-	documenting the name so that future site maintainers could read up
-	about it.
-
-	I imagine their thought processes go something like this:
-		Hoot Hoot!  I am a monkey!  Hoot Hoot!
-
-Information Section
-	This site uses an unknown template library.
+	This site uses an unknown template library, possibly Jekyll.
+	Jekyll is a static website generator (developed in Ruby).
 	
 	The references like this:
 		---
@@ -18,5 +9,13 @@ Information Section
 		---
 
 	at the top of the HTML fragment files (ex. about.html) refer to the conference.html file
+
 	in the _layouts directory and set the "page.title" variable to the value
 	"Columbus Code Camp".
+
+Fast Git Tutorial
+	git add - add the file to the staging area.
+	git commit - commit the changes that are in the staging area.
+	git push original master - push the changes.
+
+	Nice tutorial: http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/
