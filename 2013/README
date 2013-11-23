@@ -1,0 +1,21 @@
+Columbus Code Camp
+	This site uses an unknown template library, possibly Jekyll.
+	Jekyll is a static website generator (developed in Ruby).
+	
+	The references like this:
+		---
+		layout: conference
+		title: Columbus Code Camp
+		---
+
+	at the top of the HTML fragment files (ex. about.html) refer to the conference.html file
+
+	in the _layouts directory and set the "page.title" variable to the value
+	"Columbus Code Camp".
+
+Fast Git Tutorial
+	git add - add the file to the staging area.
+	git commit - commit the changes that are in the staging area.
+	git push original master - push the changes.
+
+	Nice tutorial: http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/
