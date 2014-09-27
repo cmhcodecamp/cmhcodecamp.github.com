@@ -1,17 +1,13 @@
 Columbus Code Camp
-	This site uses an unknown template library, possibly Jekyll.
-	Jekyll is a static website generator (developed in Ruby).
+	This site uses a template library called Jekyll.
+	Jekyll is a static website generator (developed in Ruby): http://jekyllrb.com/
 	
-	The references like this:
-		---
-		layout: conference
-		title: Columbus Code Camp
-		---
+	git clone https://github.com/cmhcodecamp/cmhcodecamp.github.com.git
+	cd cmhcodecamp.github.com
+	sudo jekyll build --watch
+	sudo jekyll serve
+	open http://localhost:4000/
 
-	at the top of the HTML fragment files (ex. about.html) refer to the conference.html file
-
-	in the _layouts directory and set the "page.title" variable to the value
-	"Columbus Code Camp".
 
 Fast Git Tutorial
 	git add - add the file to the staging area.
