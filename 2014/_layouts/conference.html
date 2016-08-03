@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ page.title }}</title>
+	<link rel="stylesheet" href="stylesheets/cmhcodecamp.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/themes/cupertino/jquery-ui.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js" type="text/javascript"></script>
+	<!--[if IE]>
+	<link rel="stylesheet" href="stylesheets/ie.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<![endif]-->
+</head>
+<body>
+	<div id="header">
+		<div id="header-top">
+			<div id="name">
+				<h1 class="fancy realbig"><a href="http://columbuscodecamp.com/" class="fancy realbig">Columbus Code Camp <span class="current-year">2014</span></a></h1>
+				<div style="clear:both"></div>
+			</div>
+			
+			<div id="date">
+				<strong>Oct 11th, 2014</strong> <a href="http://www.techcolumbus.org">TechColumbus</a> | <strong>9am</strong> | 
+				<a href="http://www.eventbrite.com/e/2014-columbus-code-camp-tickets-12424906229?aff=CCCsite">Register Here</a>
+			</div>
+		</div>
+		
+		<div id="header-bottom">
+			<ul>
+				<li id="home-link"><a href="http://columbuscodecamp.com/" class="fancy nav-link">Home</a></li>
+				<li id="about-link"><a href="about.html" class="fancy nav-link">About</a></li>
+				<li id="directions-link"><a href="directions.html" class="fancy nav-link">Directions</a></li>
+				<li id="attend-link"><a href="register.html" class="nav-link fancy">Register</a></li>
+
+				<li><a href="speakers.html" class="fancy nav-link">Speakers</a></li>
+
+				<li><a href="presentations.html" class="fancy nav-link">Presentations</a></li>
+				<li id="sponsor-link"><a href="sponsors.html" class="fancy nav-link">Sponsors</a></li>
+				<li id="past-events"><a href="past_events.html" class="fancy nav-link">Past Events</a></li>
+			</ul>
+		</div>
+	</div><!--header-->
+
+	<div id="wrap">
+		
+	{{ content }}
+
+	</div><!--wrap-->
+			
+					
+	<div id="footer">
+		<div>
+			Follow <a href="http://www.twitter.com/cmhcodecamp">@cmhcodecamp</a> 
+			on Twitter to keep up-to-date with event news
+		</div>
+		
+		<ul>
+<!--			<li id="program"><a href="http://columbuscodecamp.com/2013ProgramFinal_8-2013-10-08.pdf" class="fancy nav-link">Program</a></li>
+-->
+			<li><a href="register.html" class="nav-link fancy">RSVP to Attend</a></li>
+			<li><a href="mailto:cmhcodecamp@gmail.com" class="nav-link fancy">Contact Us</a></li>
+			<li></li>
+			<li>
+<div id="mc_embed_signup">
+<form action="//columbuscodecamp.us5.list-manage.com/subscribe/post?u=1923ecfa28d345fa64c9b90fb&amp;id=92008830af" method="post" id="mc-embedded-subscribe-form"
+ name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div class="mc-field-group">    <label for="mce-EMAIL">Keep up to date by joining our mailing list
+</label>
+    <input type="email" placeholder="email address" name="EMAIL" class="required email" id="mce-EMAIL">
+    <span class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></span>
+</div>
+    <div id="mce-responses" class="clear">        <div class="response" id="mce-error-response" style="display:none"></div
+>
+        <div class="response" id="mce-success-response" style="display:none"></d
+iv>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_1923ecfa28d345fa64c9b90fb_92008830af" tabindex="-1" value=""></div>
+</form>
+</div>
+			</li>
+		</ul>
+	</div><!--footer-->
+				
+	<div id="designy-bg"></div>
+
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-34523345-1']);
+	  _gaq.push(['_setDomainName', 'columbuscodecamp.com']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+	</body>
+</html>
