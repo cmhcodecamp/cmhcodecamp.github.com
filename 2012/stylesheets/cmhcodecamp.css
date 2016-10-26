@@ -109,8 +109,8 @@ form, fieldset {
 #header-bottom ul li, #footer ul li{
     float:left;
     width:auto;
-    margin:0 10px 0 10px;
-    min-width:110px;
+    margin:0 8px 0 8px;
+    min-width:101px;
     padding-top:10px;
 }
 
